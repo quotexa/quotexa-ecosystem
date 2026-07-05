@@ -318,7 +318,7 @@ https://quotexa.net
 
 ### X (Twitter)
 
-https://x.com/quotexaprotocol
+https://x.com/QuotexaNet
 
 ---
 
